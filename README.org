@@ -1,0 +1,10 @@
+* manifest
+
+System for semi-automatically documenting Common Lisp packages.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gigamonkey/manifest.git   |
+| commit  | f8a09e2  |
+| systems | manifest |
+|---------+-------------------------------------------|
+
